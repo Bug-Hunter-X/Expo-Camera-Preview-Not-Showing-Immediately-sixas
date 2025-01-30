@@ -1,0 +1,1 @@
+This error occurs when using the Expo Camera API and attempting to access the camera's preview before it's fully initialized. This typically happens when you try to render the camera preview immediately in your component's render method without checking the camera's status.
